@@ -11,7 +11,7 @@ This is a simple RESTful API built with Flask and PostgreSQL for user management
 2. Install dependencies:
   ```bash
   pip install -r requirements.txt
-```
+   ```
 3. Set up PostgreSQL and create a database called authentication
 4. Endpoints
 
